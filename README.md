@@ -1,10 +1,15 @@
 # InternSpark Machine Learning Internship Portfolio
 
 Candidate Information
+
 Name: Dashkrat Srivastava
+
 Candidate ID: IS-2026-9899
+
 Domain: Machine Learning Intern
+
 Academic Background: B.Tech – VIT Bhopal University (2028 Cohort)
+
 Internship Cohort: June 2026 (AICTE-Listed Program)
 
 ---
