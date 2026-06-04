@@ -1,5 +1,3 @@
-# InternSpark-Internship
-
 # InternSpark Machine Learning Internship Portfolio
 
 Candidate Information
