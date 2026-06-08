@@ -1,6 +1,6 @@
 # InternSpark Machine Learning Internship Portfolio
 
-### Candidate Information
+###  Candidate Information
 * **Name:** Dashkrat Srivastava
 * **Candidate ID:** IS-2026-9899
 * **Domain:** Machine Learning Intern
