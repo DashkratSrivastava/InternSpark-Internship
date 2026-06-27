@@ -30,4 +30,13 @@ This repository serves as the official project tracking portfolio for my enginee
 
 ---
 
+## Task 3: Titanic Survival Prediction
+
+* **Directory:** `/Task3_Titanic_Survival`
+* **Core Objective:** Engineered a binary Supervised Classification pipeline to predict passenger survivability by mapping structural attributes and custom engineered features.
+* **Pipeline Infrastructure:** Conducted categorical imputation and advanced feature engineering (extracting social titles, calculation of global family sizes, and mapping cabin presence indicators). Deployed a fine-tuned `RandomForestClassifier` ensemble to handle complex categorical feature interactions.
+* **Key Results:** Successfully evaluated predictive stability using precision, recall, and global feature importance metrics to verify transparent model explainability. Exported compressed, deployment-ready production model weights as `titanic_random_forest_model.pkl`.
+
+---
+
 *Maintained by [DashkratSrivastava](https://github.com/DashkratSrivastava).*
